@@ -4,7 +4,8 @@ In the wake of the pandemic, we sought out to memorialize those who have passed 
 
 When reimagining Roosevelt Island’s Four Freedoms Park, we channeled the island’s legacy as the host of New York City’s Smallpox Hospital, designed by James Renwick Jr in 1854, which can be seen just as you enter the park. We updated the Four Freedoms Monument to include a contemporary fifth freedom - Freedom of Health. Both residents and visitors of the island can examine the memorial, serving as a reminder of the past in the present.
 
-![monument-collage](https://user-images.githubusercontent.com/54759000/127087644-67e10e26-865a-400b-b589-da9c267a4c7e.jpg)
+![monument-collage-01](https://user-images.githubusercontent.com/54759000/127372371-b1d04105-33d5-46f2-9a25-2c884054c3a9.jpg)
+
 
 We chose this location primarily with Roosevelt Island’s history and character in mind, but also due to its proximity to the United Nations. The guiding motivation behind our monument is to preserve the memory of this pandemic such that the world will be more prepared for the next one, in which the UN could play a critical role.
 
