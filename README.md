@@ -1,6 +1,6 @@
 ![monumentality-01](https://user-images.githubusercontent.com/54759000/127373791-27a3bdb2-f945-4a73-a340-cbda68a05830.png)
 
-In the wake of the pandemic, we sought out to memorialize those who have passed due to COVID-19. We attempted to take a look back at history to inform, guide, and inspire our monument design. We asked ourselves, how has the Spanish Flu of 1918, from which an estimated 675,000 Americans died, been preserved in time? Our research quickly revealed that physical tributes to this tragedy are exceedingly scarce — a mere bench in Vermont being the only one in existence in the United States. The world had not faced an epidemic of this magnitude since the Bubonic Plague, and yet, the shared trauma seemed to dissipate from public consciousness. This widespread memory loss is not without consequence and illuminates one of many factors that contributed to our lack of preparation for COVID-19.
+In the wake of the pandemic, we sought out to memorialize those who have passed due to COVID-19. We attempted to take a look back at history to inform, guide, and inspire our monument design. We asked ourselves, how has the Spanish Flu of 1918, from which an estimated 675,000 Americans died, been preserved in time? Our research quickly revealed that physical tributes to this tragedy are exceedingly scarce — a mere [bench in Vermont] (https://www.nytimes.com/2020/05/14/business/1918-flu-memorials.html) being the only one in existence in the United States. The world had not faced an epidemic of this magnitude since the Bubonic Plague, and yet, the shared trauma seemed to dissipate from public consciousness. This widespread memory loss is not without consequence and illuminates one of many factors that contributed to our lack of preparation for COVID-19.
 
 When reimagining Roosevelt Island’s Four Freedoms Park, we channeled the island’s legacy as the host of New York City’s Smallpox Hospital, designed by James Renwick Jr in 1854, which can be seen just as you enter the park. We updated the Four Freedoms Monument to include a contemporary fifth freedom - Freedom of Health. Both residents and visitors of the island can examine the memorial, serving as a reminder of the past in the present.
 
@@ -15,8 +15,6 @@ The basis of our design was the graph of COVID-related deaths in the United Stat
 ![mon-mockups-01](https://user-images.githubusercontent.com/54759000/127520974-739ead15-fbb4-4fdf-a81c-99b3ec944d95.png)
 
 https://user-images.githubusercontent.com/54759000/127529895-bcebbca3-25d5-40ea-86d4-912d1edfa86a.mp4
-
-
 
 ##### 
 
