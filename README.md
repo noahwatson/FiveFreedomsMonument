@@ -6,11 +6,17 @@ When reimagining Roosevelt Island’s Four Freedoms Park, we channeled the islan
 
 ![monument-collage-01](https://user-images.githubusercontent.com/54759000/127373673-0e10ec06-0ba7-4642-9ca0-3e756eedf7f4.png)
 
+We chose this location primarily with Roosevelt Island’s history and character in mind, but also due to its proximity to the United Nations. The guiding motivation behind our monument is to preserve the memory of this pandemic such that the world will be more prepared for the next one, in which the UN could play a critical role. The monument, with its inscripted freedoms, is cemented to the helm of Roosevelt Island - within direct sight of United Nation's General Assembly building. 
 
-
-We chose this location primarily with Roosevelt Island’s history and character in mind, but also due to its proximity to the United Nations. The guiding motivation behind our monument is to preserve the memory of this pandemic such that the world will be more prepared for the next one, in which the UN could play a critical role.
+![un-mon-01](https://user-images.githubusercontent.com/54759000/127519903-b65a7053-317c-41ee-b274-86aa24f15326.png)
 
 The basis of our design was the graph of COVID-related deaths in the United States. This numerical representation of the collective experience we endured aptly describes the true toll within our nation. These are lives that will not be forgotten, both to remember how many have been lost as well as carry forward the wisdom we have gleaned on how preventable this pandemic could have been. The spiral shape of the graph signifies the perpetual and ever-important nature of history and disease. While the pandemic may appear to be nearly behind us, we must not forget that disease, be it the Spanish Flu or COVID-19, is cyclical.
+
+![mon-mockups-01](https://user-images.githubusercontent.com/54759000/127520974-739ead15-fbb4-4fdf-a81c-99b3ec944d95.png)
+
+https://user-images.githubusercontent.com/54759000/127529895-bcebbca3-25d5-40ea-86d4-912d1edfa86a.mp4
+
+
 
 ##### 
 
