@@ -16,5 +16,5 @@ The basis of our design was the graph of COVID-related deaths in the United Stat
 
 https://user-images.githubusercontent.com/54759000/127529895-bcebbca3-25d5-40ea-86d4-912d1edfa86a.mp4
 
-##### 
+#### *Virtual Reality asset of monument available upon request.*
 
